@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/testt1/static/js/main.79fe988e.chunk.js",
-    "main.js.map": "/testt1/static/js/main.79fe988e.chunk.js.map",
+    "main.js": "/testt1/static/js/main.51c6a83b.chunk.js",
+    "main.js.map": "/testt1/static/js/main.51c6a83b.chunk.js.map",
     "runtime-main.js": "/testt1/static/js/runtime-main.99550ea6.js",
     "runtime-main.js.map": "/testt1/static/js/runtime-main.99550ea6.js.map",
     "static/css/2.150d169a.chunk.css": "/testt1/static/css/2.150d169a.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/2.54950e49.chunk.js.LICENSE.txt": "/testt1/static/js/2.54950e49.chunk.js.LICENSE.txt",
     "static/media/AdminBoardChart.d9705978.PNG": "/testt1/static/media/AdminBoardChart.d9705978.PNG",
     "static/media/AdminBoardTable.b0c2dce4.PNG": "/testt1/static/media/AdminBoardTable.b0c2dce4.PNG",
-    "static/media/DamianGwiazdaCV.7ab02d0a.pdf": "/testt1/static/media/DamianGwiazdaCV.7ab02d0a.pdf",
+    "static/media/DamianGwiazdaCV.f8f501e0.pdf": "/testt1/static/media/DamianGwiazdaCV.f8f501e0.pdf",
     "static/media/Order.8037f3f5.PNG": "/testt1/static/media/Order.8037f3f5.PNG",
     "static/media/Product.368fae02.PNG": "/testt1/static/media/Product.368fae02.PNG",
     "static/media/homePage.68fc1f9d.PNG": "/testt1/static/media/homePage.68fc1f9d.PNG",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.99550ea6.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.54950e49.chunk.js",
-    "static/js/main.79fe988e.chunk.js"
+    "static/js/main.51c6a83b.chunk.js"
   ]
 }
